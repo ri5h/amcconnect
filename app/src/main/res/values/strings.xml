@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">amcconnect</string>
+    <string name="title_activity_loginactivity">Loginactivity</string>
+    <string name="title_activity_registeractivity">Registeractivity</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_upload">UploadActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_dashboard">DisplayDashboardActivity</string>
+    <string name="btnTakePicture">Capture Image</string>
+    <string name="btnRecordVideo">Record Video</string>
+    <string name="or">(or)</string>
+    <string name="send_to">Share This on . . . </string>
+    <string name="btnUploadToServer">Upload to Server</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string-array name="planets_array">
+        <item>Solid Garbage</item>
+        <item>Liquid Dump</item>
+        <item>Roads</item>
+    </string-array>
+
+    <string name="title_activity_useraccount">Useraccount</string>
+
+</resources>
